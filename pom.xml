@@ -68,17 +68,5 @@
 			
 		</plugins>
 	</build>
-	<distributionManagement>
-		<repository>
-			<id>balu</id>
-			<name>balurepo</name>
-			<url>http://54.233.139.204:8081/nexus/content/shadows/balu/</url>
-		</repository>
-		
-		<snapshotRepository>
-			<id>snapshots</id>
-			<name>Snapshots</name>
-			<url>http://54.233.139.204:8081/nexus/content/repositories/snapshots/</url>
-		</snapshotRepository>
-	</distributionManagement>
+
 </project>
